@@ -10,7 +10,6 @@ try:
         minutos_restantes = segundos_totais // 60
         segundos_restantes = segundos_totais % 60
 
-        # Usando f-strings (forma moderna e rápida de formatar strings no Python)
         timer = f"{minutos_restantes:02d}:{segundos_restantes:02d}"
 
         print(f"Foco total: {timer}", end="\r")
