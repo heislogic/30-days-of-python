@@ -20,7 +20,7 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
 ### 🟢 Bloco 1: Utilidade Pessoal (Dias 1-10)
 - [x] **Dia 1: Timer de Estudo (CLI)**
     - **Aprendizado:** Manipulação do módulo `time`, loops `while`, entrada de dados e formatação de strings com `\r`.
-    - [Ver código](./01_timer_estudo/main.py)
+    - [Ver código](./day01_timer/main.py)
 - [ ] **Dia 2: Organizador de Arquivos**
     - **Aprendizado:** (Em breve...)
 - [ ] **Dia 3: Gerador de Senha Segura**
