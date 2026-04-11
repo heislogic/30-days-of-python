@@ -9,7 +9,7 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
 ## 🚀 Status do Desafio
 | Bloco | Status | Descrição |
 | :--- | :---: | :--- |
-| **01: Utilidade Pessoal** | 🟡 20% | Scripts para o dia a dia e fundamentos. |
+| **01: Utilidade Pessoal** | 🟡 30% | Scripts para o dia a dia e fundamentos. |
 | **02: Automação** | ⚪ 0% | Scripts que interagem com o sistema e web. |
 | **03: Diferencial** | ⚪ 0% | Projetos de portfólio e integração. |
 
@@ -24,9 +24,11 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
 - [x] **Dia 2: Organizador de Arquivos**
     - **Aprendizado:** Automação de sistema com `os` e `shutil`. Uso de dicionários para mapeamento, criação de diretórios e tratamento de exceções.
     - [Ver código](https://github.com/heislogic/30-days-of-python/blob/main/projects/day02_file_organizer/main.py)
-- [ ] **Dia 3: Gerador de Senha Segura**
-    - **Aprendizado:** (Em desenvolvimento...) Manipulação das bibliotecas `random` e `string`.
+- [x] **Dia 3: Gerador de Senha Segura**
+    - **Aprendizado:** Manipulação das bibliotecas `random` e `string`, iteração com variáveis descartáveis (`_`), e multiplicação de strings para interface.
+    - [Ver código](https://github.com/heislogic/30-days-of-python/blob/main/projects/day03_password_generator/main.py)
 - [ ] **Dia 4: Lista de tarefas no terminal**
+    - **Aprendizado:** (Próximo desafio) Manipulação de listas, métodos `.append()` e `.pop()`, e a função `enumerate()`.
 - [ ] **Dia 5: Controle simples de gastos**
 - [ ] **Dia 6: Lembrete com horário**
 - [ ] **Dia 7: Renomeador automático de arquivos**
