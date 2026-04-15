@@ -9,7 +9,7 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
 ## 🚀 Status do Desafio
 | Bloco | Status | Descrição |
 | :--- | :---: | :--- |
-| **01: Utilidade Pessoal** | 🟡 30% | Scripts para o dia a dia e fundamentos. |
+| **01: Utilidade Pessoal** | 🟡 40% | Scripts para o dia a dia e fundamentos. |
 | **02: Automação** | ⚪ 0% | Scripts que interagem com o sistema e web. |
 | **03: Diferencial** | ⚪ 0% | Projetos de portfólio e integração. |
 
@@ -25,11 +25,13 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
     - **Aprendizado:** Automação de sistema com `os` e `shutil`. Uso de dicionários para mapeamento, criação de diretórios e tratamento de exceções.
     - [Ver código](https://github.com/heislogic/30-days-of-python/blob/main/projects/day02_file_organizer/main.py)
 - [x] **Dia 3: Gerador de Senha Segura**
-    - **Aprendizado:** Manipulação das bibliotecas `random` e `string`, iteração com variáveis descartáveis (`_`), e multiplicação de strings para interface.
+    - **Aprendizado:** Manipulação das bibliotecas `random` e `string`, iteração com variáveis descartáveis (`_`) e multiplicação de strings para interface.
     - [Ver código](https://github.com/heislogic/30-days-of-python/blob/main/projects/day03_password_generator/main.py)
-- [ ] **Dia 4: Lista de tarefas no terminal**
-    - **Aprendizado:** (Próximo desafio) Manipulação de listas, métodos `.append()` e `.pop()`, e a função `enumerate()`.
+- [x] **Dia 4: Lista de Tarefas Interativa**
+    - **Aprendizado:** CRUD em memória (Create, Read, Delete), métodos de lista (`.append()`, `.pop()`), função `enumerate()` para índices amigáveis, tratamento de erros e integração com SO via `subprocess` para limpeza de terminal.
+    - [Ver código](https://github.com/heislogic/30-days-of-python/blob/main/projects/day04_todo_list/main.py)
 - [ ] **Dia 5: Controle simples de gastos**
+    - **Foco:** Tipagem numérica (`float`), cálculos acumulativos e formatação de moeda.
 - [ ] **Dia 6: Lembrete com horário**
 - [ ] **Dia 7: Renomeador automático de arquivos**
 - [ ] **Dia 8: Buscador de arquivos por nome**
@@ -42,6 +44,7 @@ Este repositório contém minha jornada de 30 dias aprendendo Python do absoluto
 * **Linguagem:** Python 3.x
 * **Editor:** VS Code
 * **Ambiente:** Terminal/CLI
+* **Versionamento:** Git & GitHub
 
 ---
 
